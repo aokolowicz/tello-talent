@@ -13,8 +13,8 @@ Demonstrates the drone's capability to detect and land on an mat or pad placed u
 Allows manual control of the TT drone using keyboard inputs to perform specific actions such as movement in different directions and rotation. Displays movement patterns on the 8x8 dot-matrix display.
 
 ## Requirements
-- `DJITelloPy` library
-- `keyboard` library (for manual_control.py)
+- [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) library
+- [keyboard](https://github.com/boppreh/keyboard) library (for manual_control.py)
 
 ## Usage
 Ensure the required libraries are installed.
